@@ -22,4 +22,4 @@ Refer to [travel](travel/travel_details.md) for detailed travel plan.
 
 ## Greece - Athens, Santorini
 * Estimated travel effort: *4 - 4.5 days*
-* [Greece Travel Plan](Greece/greece.md) 
+* [Greece Travel Plan](greece/greece.md) 
