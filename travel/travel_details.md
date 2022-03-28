@@ -18,6 +18,8 @@ Round trip between Singapore and Paris in May is around *S$799 - S$1100*, with a
 ___
 
 ## Singapore to France
+* Estimated travel effort: *16 - 22 hours*
+* Estimated cost: *S$500*
 
 ## France to Italy
 
