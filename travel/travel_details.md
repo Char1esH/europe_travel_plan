@@ -21,6 +21,24 @@ ___
 * Estimated travel effort: *16 - 22 hours*
 * Estimated cost: *S$500*
 
-## France to Italy
+## France to Italy (Paris to Rome)
+* Estimated travel effort: *2 hours*
+* Estimated cost: *S$60 - S$100*
+  
+</details>
+
+<details>
+<summary> Typical Flights </summary>
+
+![flight from Paris to Rome](../resources/flight_paris_rome.png)
+</details>
+
+
+## Italy 
+### Rome
+### Florence
+### Venice
 
 ## Italy to Greece
+### Athens
+###

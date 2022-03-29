@@ -15,7 +15,7 @@ Refer to [travel](travel/travel_details.md) for detailed travel plan.
 * [France Travel Plan](france/france.md)
 
 
-## Italy - Florence, Vanice, Rome
+## Italy - Florence, Venice, Rome
 * Estimated travel effort: *6 days*
 * [Italy Travel Plan](italy/italy.md)
 
