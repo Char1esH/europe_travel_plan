@@ -35,10 +35,13 @@ ___
 
 
 ## Italy 
-### Rome
-### Florence
-### Venice
+1. Train from Rome to Florence
 
-## Italy to Greece
+2. Train from Florence to Venice
+
+3. Train from Venice to Florence
+
+
+## Italy to Greece (Rome to Athens)
 ### Athens
-###
+### Santorini
