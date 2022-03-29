@@ -35,12 +35,17 @@ ___
 
 
 ## Italy 
-1. Train from Rome to Florence
+* Train from Rome to Florence  
+  * Estimated travel effort: 
+  * Estimated cost: 
 
-2. Train from Florence to Venice
+* Train from Florence to Venice  
+  * Estimated travel effort: 
+  * Estimated cost: 
 
-3. Train from Venice to Florence
-
+* Train from Venice to Florence  
+  * Estimated travel effort: 
+  * Estimated cost: 
 
 ## Italy to Greece (Rome to Athens)
 ### Athens
